@@ -2,7 +2,7 @@
 public class ListasApp {
 
 	public static void main(String[] args) {
-		ListacomArrayOrdenada minhaLista=new ListacomArrayOrdenada();
+		ListaEncadeadaOrdenada minhaLista = new ListaEncadeadaOrdenada();
 		
 		minhaLista.print();
 		minhaLista.add(new Aluno("Jesus"));
